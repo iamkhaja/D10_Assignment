@@ -5,29 +5,33 @@ VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D10_Assignment", "D10_Assignment\D10_Assignment.csproj", "{2658BC32-9DD9-499C-835B-1FB65EF078DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37Th_Assignment", "37Th_Assignment\37Th_Assignment.csproj", "{585843D8-E8B3-4858-8538-2286C530E5E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "37Th_Assignment", "37Th_Assignment\37Th_Assignment.csproj", "{585843D8-E8B3-4858-8538-2286C530E5E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38Th_Assignment", "38Th_Assignment\38Th_Assignment.csproj", "{C60C85AA-8858-47D5-B3E3-32385066B086}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "38Th_Assignment", "38Th_Assignment\38Th_Assignment.csproj", "{C60C85AA-8858-47D5-B3E3-32385066B086}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39Th_Assignment", "39Th_Assignment\39Th_Assignment.csproj", "{E2E8CBE3-44B5-4F69-AAA6-C34F47B9C127}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "39Th_Assignment", "39Th_Assignment\39Th_Assignment.csproj", "{E2E8CBE3-44B5-4F69-AAA6-C34F47B9C127}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36Th_Assignment", "36Th_Assignment\36Th_Assignment.csproj", "{67434DAF-24A4-401C-9D94-ACC1ED94B714}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36Th_Assignment", "36Th_Assignment\36Th_Assignment.csproj", "{67434DAF-24A4-401C-9D94-ACC1ED94B714}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27Th_Assignment", "27Th_Assignment\27Th_Assignment.csproj", "{9A3C065D-F7AD-42B6-BD2D-C8F7B3C528EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27Th_Assignment", "27Th_Assignment\27Th_Assignment.csproj", "{9A3C065D-F7AD-42B6-BD2D-C8F7B3C528EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29Th_Assignment", "29Th_Assignment\29Th_Assignment.csproj", "{181A6F91-CEBA-40EF-BCDA-358E58A52BDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29Th_Assignment", "29Th_Assignment\29Th_Assignment.csproj", "{181A6F91-CEBA-40EF-BCDA-358E58A52BDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30Th_Assignment", "30Th_Assignment\30Th_Assignment.csproj", "{84CC2DE0-E488-430F-AEFD-132B866D4FD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30Th_Assignment", "30Th_Assignment\30Th_Assignment.csproj", "{84CC2DE0-E488-430F-AEFD-132B866D4FD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31st_Assignment", "31st_Assignment\31st_Assignment.csproj", "{8836E8C2-7DA6-4F43-A148-708FC15CBDC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31st_Assignment", "31st_Assignment\31st_Assignment.csproj", "{8836E8C2-7DA6-4F43-A148-708FC15CBDC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32nd_Assignment", "32nd_Assignment\32nd_Assignment.csproj", "{59B34CD8-BEDF-4EE5-A1A7-85160CEC888D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32nd_Assignment", "32nd_Assignment\32nd_Assignment.csproj", "{59B34CD8-BEDF-4EE5-A1A7-85160CEC888D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33Th_Assignmet", "33Th_Assignmet\33Th_Assignmet.csproj", "{D4AD2115-C0EA-46C3-BE8A-011AEF6DA815}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33Th_Assignmet", "33Th_Assignmet\33Th_Assignmet.csproj", "{D4AD2115-C0EA-46C3-BE8A-011AEF6DA815}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34Th_Assignment", "34Th_Assignment\34Th_Assignment.csproj", "{B89353F4-C4B5-4C32-982E-3EDA53E42016}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34Th_Assignment", "34Th_Assignment\34Th_Assignment.csproj", "{B89353F4-C4B5-4C32-982E-3EDA53E42016}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35Th_Assignment", "35Th_Assignment\35Th_Assignment.csproj", "{8921E9E9-166F-4967-B5F2-05184E728755}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35Th_Assignment", "35Th_Assignment\35Th_Assignment.csproj", "{8921E9E9-166F-4967-B5F2-05184E728755}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28Th_Assignments", "28Th_Assignments\28Th_Assignments.csproj", "{F7549A55-924F-4C8C-AED0-692C78DE379F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21st_Assignment", "21st_Assignment\21st_Assignment.csproj", "{DF5A4504-62FC-45D7-8189-5FEF2EE427F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{8921E9E9-166F-4967-B5F2-05184E728755}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8921E9E9-166F-4967-B5F2-05184E728755}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8921E9E9-166F-4967-B5F2-05184E728755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7549A55-924F-4C8C-AED0-692C78DE379F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7549A55-924F-4C8C-AED0-692C78DE379F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7549A55-924F-4C8C-AED0-692C78DE379F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7549A55-924F-4C8C-AED0-692C78DE379F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF5A4504-62FC-45D7-8189-5FEF2EE427F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5A4504-62FC-45D7-8189-5FEF2EE427F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5A4504-62FC-45D7-8189-5FEF2EE427F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5A4504-62FC-45D7-8189-5FEF2EE427F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
